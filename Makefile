@@ -1,4 +1,4 @@
-IMAGE = ttl.sh/ondrejsika/hello
+IMAGE = ghcr.io/ondrejsika/tmp-docker-build-action-test/hello
 
 all: build push
 
